@@ -1,6 +1,6 @@
 # 📊 DataFlow Dashboard
 
-A modern, serverless ETL (Extract-Transform-Load) dashboard for uploading CSV files, visualizing data, and receiving technical ETL reports via email. Built with AWS Lambda, S3, DynamoDB, SNS, API Gateway, and a responsive frontend powered by HTML, Chart.js, and optional AI analysis.
+A modern, serverless ETL (Extract-Transform-Load) dashboard for uploading CSV files, visualizing data, and receiving technical ETL reports via email. Built with AWS Lambda, S3, DynamoDB, SNS, API Gateway, and a responsive frontend powered by HTML, Chart.js, and AI analysis.
 
 ## 🔧 Features
 
